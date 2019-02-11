@@ -1,0 +1,2 @@
+Getting 404 errors when running: sudo yum -y install nano git ntp
+Had to run: 'sudo yum clean all' then 'sudo yum update all'
